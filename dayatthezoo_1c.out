@@ -1,0 +1,172 @@
+-> INFO ABOUT OBSERVERS:
+	There is no registered Observer any more.
+Observer Number#1 got registered.
+Observer Number#2 got registered.
+-> INFO ABOUT OBSERVERS:
+	Here are the Observers: Number#1, Number#2
+I am Zoo Announcer, Number#1. The ZooKeeper is about to wake the animals.
+I am Zoo Announcer, Number#2. The ZooKeeper is about to wake the animals.
+**Zookeeper is waking the animals**
+
+Colt, Cat, in family Feline, is making noise like a Cat.
+Cam, Cat, in family Feline, is eating like a Cat.
+Tim, Tiger, in family Feline,Waking up.
+Tan, Tiger, in family Feline,Waking up.
+Lucy, Lion, in family Feline,Waking up.
+Lidia, Lion, in family Feline,Waking up.
+Ed, Elephant, in family Pachderm,Waking up.
+Ema, Elephant, in family Pachderm,Waking up.
+Henry, Hippo, in family Pachderm,Waking up.
+Holt, Hippo, in family Pachderm,Waking up.
+Rim, Rhino, in family Pachderm,Waking up.
+Rob, Rhino, in family Pachderm,Waking up.
+Will, Wolf, in family Canine, is waking up like a Canine.
+War, Wolf, in family Canine, is waking up like a Canine.
+Dale, Dog, in family Canine, is waking up like a Dog.
+Dan, Dog, in family Canine, is waking up like a Dog.
+Tracy, Trout, in family Fish,Waking up.
+Trump, Trout, in family Fish,Waking up.
+Kelly, Koi, in family Fish, is waking up like a Koi.
+Kate, Koi, in family Fish, is waking up like a Koi.
+Bob, Bass, in family Fish,Waking up.
+Bailey, Bass, in family Fish,Waking up.
+Olivia, Bird, in family Bird, is waking up like an Owl.
+Oscar, Bird, in family Bird, is waking up like an Owl.
+Steve, Sparrow, in family Bird,Waking up.
+Sam, Sparrow, in family Bird,Waking up.
+Paul, Penguin, in family Bird,Waking up.
+Polly, Penguin, in family Bird,Waking up.
+I am Zoo Announcer, Number#1. The ZooKeeper is about to roll call the animals.
+I am Zoo Announcer, Number#2. The ZooKeeper is about to roll call the animals.
+**Zookeeper is roll-calling the animals**
+
+Colt, Cat, in family Feline, is making noise like a Cat.
+Cam, Cat, in family Feline, is waking up.
+Tim, Tiger, in family Feline, is making noise like a Tiger.
+Tan, Tiger, in family Feline, is making noise like a Tiger.
+Lucy, Lion, in family Feline, is making noise like a Lion.
+Lidia, Lion, in family Feline, is making noise like a Lion.
+Ed, Elephant, in family Pachderm, is making noise like an Elephant.
+Ema, Elephant, in family Pachderm, is making noise like an Elephant.
+Henry, Hippo, in family Pachderm, is making noise like a Hippo.
+Holt, Hippo, in family Pachderm, is making noise like a Hippo.
+Rim, Rhino, in family Pachderm, is making noise like a Rhino.
+Rob, Rhino, in family Pachderm, is making noise like a Rhino.
+Will, Wolf, in family Canine, is making noise like a Canine.
+War, Wolf, in family Canine, is making noise like a Canine.
+Dale, Dog, in family Canine, is making noise like a Dog.
+Dan, Dog, in family Canine, is making noise like a Dog.
+Tracy, Trout, in family Fish, is making noise by jumping like a Trout.
+Trump, Trout, in family Fish, is making noise by jumping like a Trout.
+Kelly, Koi, in family Fish, is making noise by jumpling like a Fish.
+Kate, Koi, in family Fish, is making noise by jumpling like a Fish.
+Bob, Bass, in family Fish, is making noise by jumpling like a Fish.
+Bailey, Bass, in family Fish, is making noise by jumpling like a Fish.
+Olivia, Bird, in family Bird, is making noise like an Owl.
+Oscar, Bird, in family Bird, is making noise like an Owl.
+Steve, Sparrow, in family Bird, is making noise like a Sparrow.
+Sam, Sparrow, in family Bird, is making noise like a Sparrow.
+Paul, Penguin, in family Bird, is making noise like a Penguin.
+Polly, Penguin, in family Bird, is making noise like a Penguin.
+I am Zoo Announcer, Number#1. The ZooKeeper is about to feed the animals.
+I am Zoo Announcer, Number#2. The ZooKeeper is about to feed the animals.
+**Zookeeper is feeding the animals**
+
+Colt, Cat, in family Feline, is eating like a Cat.
+Cam, Cat, in family Feline, is waking up.
+Tim, Tiger, in family Feline, is eating like a Feline.
+Tan, Tiger, in family Feline, is eating like a Feline.
+Lucy, Lion, in family Feline, is eating like a Feline.
+Lidia, Lion, in family Feline, is eating like a Feline.
+Ed, Elephant, in family Pachderm, is eating like a Pachyderm.
+Ema, Elephant, in family Pachderm, is eating like a Pachyderm.
+Henry, Hippo, in family Pachderm, is eating like a Hippo.
+Holt, Hippo, in family Pachderm, is eating like a Hippo.
+Rim, Rhino, in family Pachderm, is eating like a Pachyderm.
+Rob, Rhino, in family Pachderm, is eating like a Pachyderm.
+Will, Wolf, in family Canine,Eating.
+War, Wolf, in family Canine,Eating.
+Dale, Dog, in family Canine, is eating like a Dog.
+Dan, Dog, in family Canine, is eating like a Dog.
+Tracy, Trout, in family Fish,Eating.
+Trump, Trout, in family Fish,Eating.
+Kelly, Koi, in family Fish,Eating.
+Kate, Koi, in family Fish,Eating.
+Bob, Bass, in family Fish, is eating like a Bass.
+Bailey, Bass, in family Fish, is eating like a Bass.
+Olivia, Bird, in family Bird,Eating.
+Oscar, Bird, in family Bird,Eating.
+Steve, Sparrow, in family Bird,Eating.
+Sam, Sparrow, in family Bird,Eating.
+Paul, Penguin, in family Bird,Eating.
+Polly, Penguin, in family Bird,Eating.
+I am Zoo Announcer, Number#1. The ZooKeeper is about to exercise the animals.
+I am Zoo Announcer, Number#2. The ZooKeeper is about to exercise the animals.
+**Zookeeper is exercising the animals**
+
+Colt, Cat, in family Feline, is roaming like a Cat
+Cam, Cat, in family Feline, is eating like a Cat.
+Tim, Tiger, in family Feline, is roaming by NormalStrategy.
+Tan, Tiger, in family Feline, is roaming by NormalStrategy.
+Lucy, Lion, in family Feline, is roaming by NormalStrategy.
+Lidia, Lion, in family Feline, is roaming by NormalStrategy.
+Ed, Elephant, in family Pachderm, is roaming by NormalStrategy.
+Ema, Elephant, in family Pachderm, is roaming by NormalStrategy.
+Henry, Hippo, in family Pachderm, is roaming by NormalStrategy.
+Holt, Hippo, in family Pachderm, is roaming by NormalStrategy.
+Rim, Rhino, in family Pachderm, is roaming by NormalStrategy.
+Rob, Rhino, in family Pachderm, is roaming by NormalStrategy.
+Will, Wolf, in family Canine, is roaming by NormalStrategy.
+War, Wolf, in family Canine, is roaming by NormalStrategy.
+Dale, Dog, in family Canine, is roaming by NormalStrategy.
+Dan, Dog, in family Canine, is roaming by NormalStrategy.
+Tracy, Trout, in family Fish, is swimming by Strategy.
+Trump, Trout, in family Fish, is swimming by Strategy.
+Kelly, Koi, in family Fish, is swimming by Strategy.
+Kate, Koi, in family Fish, is swimming by Strategy.
+Bob, Bass, in family Fish, is swimming by Strategy.
+Bailey, Bass, in family Fish, is swimming by Strategy.
+Olivia, Bird, in family Bird, is flying by Strategy.
+Oscar, Bird, in family Bird, is flying by Strategy.
+Steve, Sparrow, in family Bird, is flying by Strategy.
+Sam, Sparrow, in family Bird, is flying by Strategy.
+Paul, Penguin, in family Bird, is roaming by NormalStrategy.
+Polly, Penguin, in family Bird, is roaming by NormalStrategy.
+I am Zoo Announcer, Number#1. The ZooKeeper is about to shut down the zoo.
+I am Zoo Announcer, Number#2. The ZooKeeper is about to shut down the zoo.
+**Zookeeper is shutting down the zoo**
+
+Colt, Cat, in family Feline, is making noise like a Cat.
+Cam, Cat, in family Feline, is waking up.
+Tim, Tiger, in family Feline,Sleeping.
+Tan, Tiger, in family Feline,Sleeping.
+Lucy, Lion, in family Feline,Sleeping.
+Lidia, Lion, in family Feline,Sleeping.
+Ed, Elephant, in family Pachderm,Sleeping.
+Ema, Elephant, in family Pachderm,Sleeping.
+Henry, Hippo, in family Pachderm,Sleeping.
+Holt, Hippo, in family Pachderm,Sleeping.
+Rim, Rhino, in family Pachderm, is sleeping like a Rhino.
+Rob, Rhino, in family Pachderm, is sleeping like a Rhino.
+Will, Wolf, in family Canine,Sleeping.
+War, Wolf, in family Canine,Sleeping.
+Dale, Dog, in family Canine, is sleeping like a Dog.
+Dan, Dog, in family Canine, is sleeping like a Dog.
+Tracy, Trout, in family Fish, is sleeping like a Trout.
+Trump, Trout, in family Fish, is sleeping like a Trout.
+Kelly, Koi, in family Fish,Sleeping.
+Kate, Koi, in family Fish,Sleeping.
+Bob, Bass, in family Fish,Sleeping.
+Bailey, Bass, in family Fish,Sleeping.
+Olivia, Bird, in family Bird, is sleeping like an Owl.
+Oscar, Bird, in family Bird, is sleeping like an Owl.
+Steve, Sparrow, in family Bird, is sleeping like a Bird.
+Sam, Sparrow, in family Bird, is sleeping like a Bird.
+Paul, Penguin, in family Bird, is sleeping like a Bird.
+Polly, Penguin, in family Bird, is sleeping like a Bird.
+Observer Number#1 got removed.
+Observer Number#2 got removed.
+-> INFO ABOUT OBSERVERS:
+	There is no registered Observer any more.
+Number#1 is deconstructed.
+Number#2 is deconstructed.
